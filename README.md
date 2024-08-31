@@ -21,6 +21,10 @@ This project is a responsive ecommerce website designed using HTML, CSS, and Jav
 - **CSS**: Stylesheet language used for styling the website.
 - **JavaScript**: Programming language used for interactivity.
 
+## Demo
+
+You can view the live demo of the login and signup page [here](https://m-raj-22.github.io/E-Commerce-Website/).
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
